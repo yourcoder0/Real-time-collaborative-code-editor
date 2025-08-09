@@ -80,7 +80,7 @@ const Home = () => {
             <footer>
                 <h4>
                     Build by &nbsp;
-                    <Link href="https://github.com/Mohitur669" target="_blank" rel="noopener noreferrer">Mohd Mohitur Rahaman</Link>
+                    <Link href="https://github.com/deerajdg5?tab=repositories" target="_blank" rel="noopener noreferrer">Deeraj Ganesh M</Link>
                 </h4>
             </footer>
         </div>
